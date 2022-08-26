@@ -1,5 +1,7 @@
 .container {
+  position: relative;
   width: 320px;
+  height: 100vh;
   padding: 0px;
   margin-left: auto;
   margin-right: auto;
