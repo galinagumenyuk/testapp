@@ -1,0 +1,8 @@
+.container {
+  width: 320px;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('./images/bcg.jpg');
+  background-size: cover;
+}

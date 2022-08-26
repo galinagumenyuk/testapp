@@ -1,0 +1,29 @@
+.container {
+    padding: 80px 20px 0px 20px;
+    margin: 0px;
+}
+
+.quote {
+    width: 240px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.18;
+    text-align: center;
+    color: #0e0d0d;
+    margin-left: 0px;
+
+}
+
+.author {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.27;
+    text-align: center;
+    color: #0e0e0e;
+    font-family: 'Open Sans';
+    margin-top: 5px;
+
+}
