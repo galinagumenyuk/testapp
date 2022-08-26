@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testapp/static/css/main.af2799c1.css",
+    "main.js": "/testapp/static/js/main.46ae6aa9.js",
+    "static/css/65.06146a2e.chunk.css": "/testapp/static/css/65.06146a2e.chunk.css",
+    "static/js/65.97e8c55a.chunk.js": "/testapp/static/js/65.97e8c55a.chunk.js",
+    "static/media/bcg.jpg": "/testapp/static/media/bcg.102a110eafdac8ae9180.jpg",
+    "static/media/hamburger-menu-more-svgrepo-com.svg": "/testapp/static/media/hamburger-menu-more-svgrepo-com.c7805a72c91cc5dd6cd1ac84b8a89b65.svg",
+    "static/media/magnifier-search-zoom-svgrepo-com.svg": "/testapp/static/media/magnifier-search-zoom-svgrepo-com.39d4a0841e57809a9fb0f3437e719b38.svg",
+    "index.html": "/testapp/index.html",
+    "main.af2799c1.css.map": "/testapp/static/css/main.af2799c1.css.map",
+    "main.46ae6aa9.js.map": "/testapp/static/js/main.46ae6aa9.js.map",
+    "65.06146a2e.chunk.css.map": "/testapp/static/css/65.06146a2e.chunk.css.map",
+    "65.97e8c55a.chunk.js.map": "/testapp/static/js/65.97e8c55a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2799c1.css",
+    "static/js/main.46ae6aa9.js"
+  ]
+}

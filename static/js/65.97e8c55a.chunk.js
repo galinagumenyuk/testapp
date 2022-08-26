@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[65],{65:function(e,t,s){s.r(t),s.d(t,{default:function(){return n}});s(791);var u="Quote_container__iOaVe",a="Quote_quote__O4RqN",i="Quote_author__MmS8B",c=s(184),n=function(){return(0,c.jsxs)("div",{className:u,children:[(0,c.jsx)("h2",{className:a,children:'"Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam fugit quos labore consequatur suscipit!"'}),(0,c.jsx)("p",{className:i,children:"Author"})]})}}}]);
+//# sourceMappingURL=65.97e8c55a.chunk.js.map
