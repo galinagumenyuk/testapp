@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "theme": "motivate",
+        "quote": "все буде добре",
+        "author": "я"
+    },
+    {
+        "id": "2",
+        "theme": "unmotivate",
+        "quote": "все не буде добре",
+        "author": "я"
+    },
+    {
+        "id": "3",
+        "theme": "motivate",
+        "quote": "все буде добре точно",
+        "author": "я"
+    },
+    {
+        "id": "4",
+        "theme": "motivate",
+        "quote": "все буде добре можливо",
+        "author": "знову я"
+    },
+    {
+        "id": "5",
+        "theme": "motivate",
+        "quote": "все буде добре колись",
+        "author": "і тепер я"
+    }
+]

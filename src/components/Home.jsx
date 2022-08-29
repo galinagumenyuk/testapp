@@ -1,7 +1,7 @@
 import React from "react";
-import s from "./Quote.module.css";
+import s from "./Home.module.css";
 
-const Quote = () => { 
+const Home = () => { 
     return (
         <div className={s.container}>
             <h2 className={s.quote}>У моєму словнику немає слова “неможливо”</h2>
@@ -10,4 +10,4 @@ const Quote = () => {
     )
 }
 
-export default Quote;
+export default Home;

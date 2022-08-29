@@ -1,19 +1,24 @@
 import "./App.css";
 import { Suspense, lazy } from "react";
+import { Route, Routes } from "react-router-dom";
 import Favicon from "react-favicon";
-import Header from "./components/Header.jsx";
-
-const Quote = lazy(() => import("../src/components/Quote.jsx"));
+import Navigate from "./components/Navigate";
+import Home from "./components/Home";
+const Quotes = lazy(() => import("./components/Quotes.jsx"));
 
 function App() {
   return (
-    <Suspense fallback={<div>Loading... </div>}>
-      <div className="container">
-        <Favicon url="../public/favicon.ico" />
-        <Header />
-        <Quote />
-      </div>
-    </Suspense>
+    <div className="container">
+      <Navigate />
+
+      <Favicon url="../public/favicon.ico" />
+      <Suspense fallback={<div>Loading...</div>}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/quotes" element={<Quotes />} />
+        </Routes>
+      </Suspense>
+    </div>
   );
 }
 
