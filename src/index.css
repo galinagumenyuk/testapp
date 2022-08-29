@@ -2,9 +2,9 @@ body {
   margin: 0;
   font-family: 'Dancing Script', cursive;
   font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Marck Script', cursive;
   font-family: 'Open Sans', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Pacifico', cursive;
 }
 
 html,

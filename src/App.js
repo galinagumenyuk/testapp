@@ -10,8 +10,8 @@ function App() {
     <Suspense fallback={<div>Loading... </div>}>
       <div className="container">
         <Favicon url="../public/favicon.ico" />
-        <Quote />
         <Header />
+        <Quote />
       </div>
     </Suspense>
   );

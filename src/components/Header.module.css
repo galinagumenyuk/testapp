@@ -1,11 +1,12 @@
 .container {
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: 10px;
+    left: 2px;
     width: 320px;
-    padding-bottom: 20px;
-    display: inline-flex;
-    justify-content: space-around;
+    /* max-width: 100vw; */
+    /* padding-top: 20px; */
+    display: flex;
+    justify-content: space-between;
 }
 
 .button {
@@ -23,12 +24,18 @@
 
 .dropdown {
     position: absolute;
-    top: -110px;
+    transition: .5s ease;
+    bottom: 60px;
     left: 0px;
-    display: block;
-    background-color: #ffffff;
+    width: 320px;
+    height: 80vh;
+    background-color: rgba(48, 42, 224, 1);
+    color: white;
     padding: 20px;
     border-radius: 4px;
+    -webkit-box-shadow: -12px -9px 20px 19px rgba(48, 42, 224, 1);
+    -moz-box-shadow: -12px -9px 20px 19px rgba(48, 42, 224, 1);
+    box-shadow: -12px -9px 20px 19px rgba(48, 42, 224, 1);
 }
 
 .item {
@@ -39,5 +46,5 @@
 
 .item:hover,
 .item:focus {
-    background-color: rgb(115, 180, 251);
+    color: rgb(244, 242, 137);
 }
