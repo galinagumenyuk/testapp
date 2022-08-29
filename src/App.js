@@ -5,6 +5,8 @@ import Favicon from "react-favicon";
 import Navigate from "./components/Navigate";
 import Home from "./components/Home";
 const Quotes = lazy(() => import("./components/Quotes.jsx"));
+const Profile = lazy(() => import("./components/Profile.jsx"));
+const QuotePage = lazy(() => import("./components/QuotesPage"));
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/quotes" element={<Quotes />} />
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/quotes/:theme" element={<QuotePage />} />
         </Routes>
       </Suspense>
     </div>

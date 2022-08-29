@@ -1,13 +1,11 @@
-.container {
-    padding: 120px 20px 0px 20px;
-    margin: 0px;
+.item {
+    margin-top: 35px;
 }
 
 .quote {
-
     font-family: 'Marck Script';
-    font-size: 46px;
-    line-height: 1.31;
+    font-size: 30px;
+    line-height: 1.21;
     text-align: center;
     color: #0e0d0d;
     margin-left: 0px;
@@ -17,7 +15,7 @@
 .author {
     font-style: normal;
     font-weight: 300;
-    font-size: 23px;
+    font-size: 19px;
     line-height: 1.27;
     text-align: center;
     color: #0e0e0e;

@@ -15,3 +15,11 @@
     -o-transform: scale(1.2);
     transform: scale(1.2);
 }
+
+.link:hover,
+.link:focus {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}

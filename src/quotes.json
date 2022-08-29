@@ -1,31 +1,31 @@
 [
     {
         "id": "1",
-        "theme": "motivate",
+        "theme": "мотиваційні",
         "quote": "все буде добре",
         "author": "я"
     },
     {
         "id": "2",
-        "theme": "unmotivate",
+        "theme": "депресивні",
         "quote": "все не буде добре",
         "author": "я"
     },
     {
         "id": "3",
-        "theme": "motivate",
+        "theme": "мотиваційні",
         "quote": "все буде добре точно",
         "author": "я"
     },
     {
         "id": "4",
-        "theme": "motivate",
-        "quote": "все буде добре можливо",
+        "theme": "якась хєрня",
+        "quote": "пішло воно все ....",
         "author": "знову я"
     },
     {
         "id": "5",
-        "theme": "motivate",
+        "theme": "мотиваційні",
         "quote": "все буде добре колись",
         "author": "і тепер я"
     }
