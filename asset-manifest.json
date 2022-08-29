@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.8bc088a3.css",
-    "main.js": "/testapp/static/js/main.adccd7b1.js",
-    "static/css/65.19e92b0c.chunk.css": "/testapp/static/css/65.19e92b0c.chunk.css",
-    "static/js/65.22fd5280.chunk.js": "/testapp/static/js/65.22fd5280.chunk.js",
+    "main.css": "/testapp/static/css/main.3b2d7f61.css",
+    "main.js": "/testapp/static/js/main.280e81a7.js",
+    "static/css/65.0ce44f1b.chunk.css": "/testapp/static/css/65.0ce44f1b.chunk.css",
+    "static/js/65.532cb9ae.chunk.js": "/testapp/static/js/65.532cb9ae.chunk.js",
     "static/media/bcg.jpg": "/testapp/static/media/bcg.102a110eafdac8ae9180.jpg",
     "index.html": "/testapp/index.html",
     "static/media/ux-basic-app-svgrepo-com.svg": "/testapp/static/media/ux-basic-app-svgrepo-com.7646e9b373c96cb0bc7caf914fff5272.svg",
     "static/media/ux-user-app-svgrepo-com.svg": "/testapp/static/media/ux-user-app-svgrepo-com.9d2ce503c3d52a7f4abfbcb9e0210fd6.svg",
-    "main.8bc088a3.css.map": "/testapp/static/css/main.8bc088a3.css.map",
-    "main.adccd7b1.js.map": "/testapp/static/js/main.adccd7b1.js.map",
-    "65.19e92b0c.chunk.css.map": "/testapp/static/css/65.19e92b0c.chunk.css.map",
-    "65.22fd5280.chunk.js.map": "/testapp/static/js/65.22fd5280.chunk.js.map"
+    "main.3b2d7f61.css.map": "/testapp/static/css/main.3b2d7f61.css.map",
+    "main.280e81a7.js.map": "/testapp/static/js/main.280e81a7.js.map",
+    "65.0ce44f1b.chunk.css.map": "/testapp/static/css/65.0ce44f1b.chunk.css.map",
+    "65.532cb9ae.chunk.js.map": "/testapp/static/js/65.532cb9ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bc088a3.css",
-    "static/js/main.adccd7b1.js"
+    "static/css/main.3b2d7f61.css",
+    "static/js/main.280e81a7.js"
   ]
 }
